@@ -1,0 +1,4 @@
+- 👋 Hi, I’m MAAZ ZAMA.
+- 👀 I’m interested in Technology.
+- 🌱 I’m currently learning web development.
+- 📫 You can reach me via @zxmaaz on Insta and @maaz_zama on Telegram.
