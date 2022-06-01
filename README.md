@@ -1,4 +1,4 @@
 - 👋 Hi, I’m MAAZ ZAMA.
 - 👀 I’m interested in Technology.
 - 🌱 I’m currently learning web development.
-- 📫 You can reach me via @zxmaaz on Insta and @informalmaaz on Telegram.
+- 📫 You can reach me via @informalmaaz on Insta and Telegram.
