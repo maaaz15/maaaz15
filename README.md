@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **React projects**
 
-- 👨‍💻 All of my projects are available at [https://portfolio-maaaz15.vercel.app/](https://portfolio-maaaz15.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://maaaz15.vercel.app/](https://maaaz15.vercel.app/)
 
 - 💬 Ask me about **JavaScript, React**
 
